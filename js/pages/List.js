@@ -112,7 +112,7 @@ export default {
                         4. CBF is allowed.
                     </p>
                     <p>
-                        5. You must you the submitter to submit your record for review.
+                        5. You must use the submitter to submit your record for review.
                     </p>
                 </div>
             </div>
