@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>In order to submit a record:s</h3>
+                    <h3>In order to submit a records: </h3>
                     <p>
                         1. You must have clicks in your recording.
                     </p>
